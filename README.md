@@ -22,7 +22,7 @@ Arun Kumar
 * 64-bit Windows
 * Java >= 8 (https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html) If you are doing development install JDK, otherwise JRE is enough
 * Enable the Java Access Bridge in windows <br> C:\path\to\java\bin\jabswitch -enable
-
+* Access Bridge Explorer is a Windows application that allows exploring, as well as interacting with, the Accessibility tree of any Java applications <br> https://github.com/google/access-bridge-explorer
 ## Input (Required)
 | Function type             | Parameters   | Output     |
 |---------------------------|--------------|------------|
